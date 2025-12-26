@@ -21,7 +21,6 @@ Feel free to explore my repositories to see examples of my work using these tech
 
 Let's connect and collaborate! You can reach out to me via:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-muñoz-rodriguez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel_13l@hotmail.com)
 
 Don't hesitate to get in touch if you have any questions, want to collaborate, or just chat about web development and design. I'm always excited to meet new people in the tech community!
